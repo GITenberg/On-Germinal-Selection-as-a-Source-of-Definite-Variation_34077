@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25331
     wikipedia: http://en.wikipedia.org/wiki/August_Weismann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34077#On-Germinal-Selection-as-a-Source-of-Definite-Variation
 gutenberg_issued: '2010-10-15'
 gutenberg_type: Text
 identifiers:
